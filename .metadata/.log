@@ -38,3 +38,9 @@ Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.springso
 
 !ENTRY org.eclipse.lsp4e 1 0 2017-10-07 14:18:13.984
 !MESSAGE Non IFiles not supported yet
+
+!ENTRY org.eclipse.jface.text 2 0 2017-10-07 16:09:05.170
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-10-07 16:09:05.171
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
