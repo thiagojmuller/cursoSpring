@@ -1,0 +1,40 @@
+!SESSION 2017-10-07 14:11:45.309 -----------------------------------------------
+eclipse.buildId=3.9.0.201707061823-RELEASE-e47
+java.version=1.8.0_144
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.springsource.sts.ide -keyring /Users/thiagojmuller/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.springsource.sts.ide -keyring /Users/thiagojmuller/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2017-10-07 14:12:17.211
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.ui 2 2 2017-10-07 14:12:23.139
+!MESSAGE org.eclipse.jdt.junit.ResultView: Deprecated relationship "fast" should be converted to "stack".
+
+!ENTRY org.eclipse.ui 2 2 2017-10-07 14:12:23.143
+!MESSAGE org.springframework.ide.eclipse.aop.ui.navigator.aopReferenceModelNavigator: Deprecated relationship "fast" should be converted to "stack".
+
+!ENTRY org.eclipse.ui 2 2 2017-10-07 14:12:23.143
+!MESSAGE org.eclipse.contribution.xref.ui.views.XReferenceView: Deprecated relationship "fast" should be converted to "stack".
+
+!ENTRY org.eclipse.jface.text 2 0 2017-10-07 14:12:25.098
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-10-07 14:12:25.099
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.lsp4e 1 0 2017-10-07 14:16:41.323
+!MESSAGE Non IFiles not supported yet
+
+!ENTRY org.eclipse.lsp4e 1 0 2017-10-07 14:16:41.403
+!MESSAGE Non IFiles not supported yet
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-07 14:17:26.597
+!MESSAGE Failed to dispatch repository event to org.eclipse.m2e.core.internal.embedder.EclipseRepositoryListener: null
+
+!ENTRY org.eclipse.lsp4e 1 0 2017-10-07 14:18:13.975
+!MESSAGE Non IFiles not supported yet
+
+!ENTRY org.eclipse.lsp4e 1 0 2017-10-07 14:18:13.984
+!MESSAGE Non IFiles not supported yet
